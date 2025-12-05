@@ -21,7 +21,7 @@ Orgin:- Commonly sourced from platform like Kaggle.
                  Time Trends: Sales & Profit by Month/Year (Area and Line charts)
                  Geographic Analysis: Profit and Sales by State (Map visual)
 
-   Forecasting View:- Sales Trend: Sales over time (Line chart)
+       Forecasting View:- Sales Trend: Sales over time (Line chart)
                    Short-Term Prediction: Sales Forecast for the Next 20 Days (Forecast Line)
                    Regional Forecast Breakdown: Sales Forecast by State (Bar chart)
   
