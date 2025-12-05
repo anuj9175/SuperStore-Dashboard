@@ -15,13 +15,13 @@ Calculation & Logic:- DAX(Data Analysis Expressions)  (for creating measure like
 Dataset Name:-Superstore Sales Dataset.
 Orgin:- Commonly sourced from platform like Kaggle.
 
-5.   Features/DashBoard HighLight
-Main Dashboard:- KPI Cards: Total Orders, Total Sales, Total Profit, Ship Days (Avg)
+5.   Features/DashBoard HighLight    
+   Main Dashboard:- KPI Cards: Total Orders, Total Sales, Total Profit, Ship Days (Avg)
                  Sales Distribution: Sales by Segment, Sales by Region (Donut charts)
                  Time Trends: Sales & Profit by Month/Year (Area and Line charts)
                  Geographic Analysis: Profit and Sales by State (Map visual)
 
-Forecasting View:- Sales Trend: Sales over time (Line chart)
+   Forecasting View:- Sales Trend: Sales over time (Line chart)
                    Short-Term Prediction: Sales Forecast for the Next 20 Days (Forecast Line)
                    Regional Forecast Breakdown: Sales Forecast by State (Bar chart)
   
