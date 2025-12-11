@@ -1,7 +1,9 @@
 # SuperStore-Dashboard
 # 1.   Project Title 
 
-🏬 SuperStore Analytics:- Performance DashBoard And Time-Series Sales Forecast
+### 🏬 SuperStore Analytics:- Performance DashBoard And Time-Series Sales Forecast
+
+
 
 # 2.   Description 
 This Project is to Contribute to the Success of a Business by Utilizing Data Analysis Techniques
@@ -19,12 +21,12 @@ Orgin:- Commonly sourced from platform like Kaggle.
 
 # 5.   Features/DashBoard HighLight
 
-  ## Main Dashboard:- KPI Cards: Total Orders, Total Sales, Total Profit, Ship Days (Avg)
+  ### Main Dashboard:- KPI Cards: Total Orders, Total Sales, Total Profit, Ship Days (Avg)
                  Sales Distribution: Sales by Segment, Sales by Region (Donut charts)
                  Time Trends: Sales & Profit by Month/Year (Area and Line charts)
                  Geographic Analysis: Profit and Sales by State (Map visual)
 
-     ##  Forecasting View:- Sales Trend: Sales over time (Line chart)
+  ###  Forecasting View:- Sales Trend: Sales over time (Line chart)
                    Short-Term Prediction: Sales Forecast for the Next 20 Days (Forecast Line)
                    Regional Forecast Breakdown: Sales Forecast by State (Bar chart)
   
